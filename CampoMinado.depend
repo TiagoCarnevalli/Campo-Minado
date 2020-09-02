@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1521850186 source:c:\users\tiago carnevalli\documents\programação 2\campominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1522974627 source:c:\users\tiago carnevalli\documents\programação 2 - daniele\campominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
+1522974627 source:c:\users\tiago carnevalli\documents\fatec\programação 2 - daniele\campominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
